@@ -1,3 +1,4 @@
+//6510451018 Harit Sombatsiri
 public class GumballMachine {
     private int gumballs;
     private boolean noQuarter;
